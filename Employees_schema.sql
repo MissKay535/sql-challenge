@@ -1,3 +1,5 @@
+# The following code creates each table required to prepare for the queries.
+
 CREATE TABLE titles(
 	title_id VARCHAR(5) PRIMARY KEY NOT NULL,
 	title VARCHAR(30) NOT NULL
